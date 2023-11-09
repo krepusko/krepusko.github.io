@@ -1,7 +1,7 @@
 # Site settings
-title: 博客标题
-subtitle: 博客副标题
-description: 博客描述
+title: krepusko的博客
+subtitle: 个人主页
+description: 存放谱子
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # 你的网址
 domain: "yourdomain.com" # 你的域名
