@@ -1,10 +1,10 @@
 # Site settings
 title: krepusko
-subtitle: [ 个人博客 ]
+subtitle: [ 个人博客&制谱园地 ]
 keywords: krepusko
 description: 别下这么看场合的雨啊！
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.oukohou.wang/" # 你的域名
+url: "https://krepusko.github.io/" # 你的域名
 page_no_title: "krepusko's blog" # 文章无标题时默认显示内容
 beian: # "备案号"
 author: krepusko
@@ -39,7 +39,7 @@ menu:
   - page: 首页
     directory: .
     icon: icon-home
-  - page: 归档
+  - page: 时间线
     directory: archives/
     icon: icon-archive
   - page: 标签
@@ -58,14 +58,14 @@ menu:
 # Link settings
 links: # 友情链接
 
-  - title: ccslience's blog
-    url: http://ccslience.oukohou.wang/
-  - title: oukohou's github
-    url: https://github.com/oukohou
+  - title: kre的bilibili主页
+    url: https://space.bilibili.com/7488747
+  - title: kre的百度贴吧个人谱楼
+    url: https://tieba.baidu.com/p/7441315136
 #  - title:
 #    url: http://jekyllcn.com/
-  - title: Jekyll blog system
-    url: http://jekyllcn.com/
+  - title: 
+    url: 
 
 
 # Google Analytics
